@@ -1,0 +1,33 @@
+Logo{
+Height: 95px;
+Width:95px;
+}
+Tag{
+Font-family: 'open_regular', arial;
+Font-weight: bold;
+}
+Headline (all){
+Width: 1080px;
+Height: 525px;
+{
+Headline (each one){
+Width: 360px;
+Height: 525px;
+{
+Content-box (each box){
+Width: 305px;
+Height: 330px;
+Margin-left: 80px;
+Font-family: 'open_bold', arial;
+}
+Footer{
+Width: 1080px;
+Height: 135px;
+}
+Social Media Logo{
+Width: 57px;
+Height: 60px;
+}
+
+
+   
